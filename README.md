@@ -1,10 +1,15 @@
-# OnlineVotingSystem
-![image](https://github.com/Asrorbek-Abrorov/OnlineVotingSystem/assets/138248626/08694a8d-d940-4c89-80d7-0ea09e107258)
+﻿# Online Voting System (C#)
 
-![image](https://github.com/Asrorbek-Abrorov/OnlineVotingSystem/assets/138248626/d6135839-fd09-4676-a3b5-598fd3e79bdc)
+A console-based online voting system developed using C# and .NET 8.
 
-![image](https://github.com/Asrorbek-Abrorov/OnlineVotingSystem/assets/138248626/f41090dc-57a3-48ea-8576-8132a035654d)
+Features:
+- Voter account management
+- Candidate management
+- Voting functionality
+- Gmail API integration for email notifications
 
-![image](https://github.com/Asrorbek-Abrorov/OnlineVotingSystem/assets/138248626/58387e1a-2728-4077-9a72-d195c58805e1)
+## Screenshots
 
-![image](https://github.com/Asrorbek-Abrorov/OnlineVotingSystem/assets/138248626/5bc1f4f2-4980-46c5-a47b-e243cb31fba3)
+![Voting System](https://github.com/Asrorbek-Abrorov/OnlineVotingSystem/assets/138248626/08694a8d-d940-4c89-80d7-0ea09e107258)
+
+![Voting System](https://github.com/Asrorbek-Abrorov/OnlineVotingSystem/assets/138248626/d6135839-fd09-4676-a3b5-598fd3e79bdc)
